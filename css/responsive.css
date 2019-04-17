@@ -359,5 +359,9 @@
         width: 240px;
     }
 
+   .team-img a img{
+        width: 310px;
+        height: 310px;
+    }
     
 }

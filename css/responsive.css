@@ -1,0 +1,367 @@
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .menu-nav li a {font-size:14px;};
+
+    .carousel-item img{
+        height: 100vh;
+    }
+    
+    .carousel-caption img{
+        width: 220px;
+    }
+
+    .caption-two {
+        top: 550px;
+    }
+
+    .consatel h3 {
+        text-align: center;
+        font-size : 26px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .menu-nav {
+        position: absolute; 
+        right: 0;
+        float: none;
+        top: 10;
+        padding:0;
+    }
+
+    .main-menu {
+        padding: 15px;
+    }
+
+    .menu-nav li a {
+        font-size: 13px;
+        margin: 0px 10px;
+    }
+
+    .carousel-caption {
+        position: absolute;
+        top:140px;
+    }
+    
+    .carousel-caption img{
+        width: 220px;
+    }
+    
+    .carousel-caption .title-one {
+        font-size: 2em;
+        font-weight: 500;
+    }
+
+    .caption-three {
+        top:300px;
+        text-align: start;
+    }
+
+    .caption-two {
+        top: 400px;
+    }
+
+    .carousel-caption .title-two{
+        font-size: 2em;
+     }
+
+     .caption-three {
+        top: 200px;
+    }
+
+    .carousel-caption .title-three{
+        font-size: 2em;
+     }
+
+     .img-service {
+       margin-left: 100px !important;
+     }
+
+     .services {
+        margin-top:80px !important;
+    }
+
+    .consatel-container h3 {
+        font-size : 24px;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .navbar-brand{
+        display: none;
+    }
+
+    
+
+    .main-menu {
+        background: rgb(43, 38, 38);
+        padding: 26px;
+        box-shadow:0 4px 5px -3px #ececec;
+        border-bottom:1px solid #dddddd;
+        position: fixed;
+    }
+
+    .menu-nav {
+        position: absolute; 
+        top: 55px;
+        right: 0;
+        background: rgb(43, 41, 41);
+        width:100%;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        display: none;
+    }
+
+    .menu-nav li {
+        display: block;
+    }
+
+    .menu-nav li a {
+        font-size:12px;
+        padding: 0;
+        color: #fff;
+        display:block; 
+        padding:12px 32px;
+        margin: 4px -5px; 
+        border-bottom: 1px solid #f3f3f3;
+        width: 100%;
+    }
+
+    .menu-nav li a:hover {
+        color: rgb(57, 180, 94);
+    }
+
+    .click-toggle {
+        display: block;
+    }
+
+    .carousel-caption {
+        position: absolute;
+        top:220px;
+    }
+    
+    .carousel-caption img{
+        width: 200px;
+    }
+    
+    .carousel-caption .title-one {
+        font-size: 16px;
+    }
+
+    .carousel-caption .text-one {
+        font-size: 13px;
+    }
+
+    .caption-two {
+        top: 320px;
+    }
+
+    .carousel-caption .title-two{
+        font-size: 16px;
+     }
+
+     .carousel-caption .text-two{
+        font-size: 13px;
+     }
+
+     .caption-three {
+        top: 200px;
+    }
+
+    .carousel-caption .title-three{
+        font-size: 16px;
+     }
+
+     .carousel-caption .text-three{
+        font-size: 13px;
+     }
+
+     
+     .mision-vision h3 {
+        text-align: center;
+        font-size: 16px;
+     }
+   
+      .mision-vision p {
+        font-size: 15px;
+     }
+  
+
+     .image-future img {
+        width: 440px;
+    }
+
+    .services {
+        margin-top:80px !important;
+    }
+
+    .consatel-container h3 {
+        font-size : 24px;
+    }
+
+    .logos img {
+        margin-right: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 599px) {
+    
+    .carousel-caption {
+        position: absolute;
+        top:50px;
+    }
+
+    .carousel-caption .logo{
+        width: 180px;
+        height: 180px;
+    }
+
+    .carousel-caption .title-one{
+        font-size: 13px;
+    }
+
+    .carousel-caption .text-one{
+        font-size: 12px;
+    }
+
+
+    .caption-two {
+        top: 250px;
+    }
+
+
+    .carousel-caption .title-two{
+        font-size: 13px;
+     }
+
+     .carousel-caption .text-two{
+        font-size: 12px;
+     }
+
+     .caption-three {
+        top: 200px;
+    }
+
+    .carousel-caption .title-three{
+        font-size: 13px;
+     }
+
+     
+    .carousel-caption .text-three{
+        font-size: 12px;
+     }
+
+     .image-future img {
+        width: 340px;
+    }
+
+    .services {
+        margin-top:80px !important;
+    }
+
+    .logos img {
+        margin-right: 20px;
+    }
+
+    .working-img h2 {
+        color: #FAFAFA;
+        font-size: 18px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 479px) {
+    /****Mobile Portrait 320 ****/
+
+    .carousel-caption {
+        position: absolute;
+        top:135px;
+    }
+    
+    .carousel-caption .logo{
+        width: 200px;
+        height: 200px;
+    }
+
+    .carousel-caption  .title-one {
+        font-size: 13px;    
+    }
+
+    .carousel-caption .text-one{
+        font-size: 12px;    
+    }
+
+    .caption-two {
+        top: 125px;
+    }
+
+    .carousel-caption .title-two{
+        font-size: 13px;
+     }
+
+     .carousel-caption .text-two{
+        font-size: 12px;
+     }
+
+     .caption-three {
+        top: 120px;
+    }
+
+    .carousel-caption .title-three{
+        font-size: 13px;
+     }
+
+     .carousel-caption .text-three{
+        font-size: 12px;
+     }
+
+     .mision-vision h3 {
+        text-align: center;
+        font-size: 14px;
+     }
+   
+      .mision-vision p {
+        font-size: 13px;
+     }
+
+     .services {
+         margin-top:80px !important;
+     }
+
+     .service-list-info h3 {
+        font-size: 14px;
+    }
+    
+    .service-list-info p {
+        font-size: 13px;
+    }
+
+    .service-list-icon {
+        height: 110px;
+    }
+
+    .image-future {
+        text-align: center;
+    }
+
+    .image-future img {
+        width: 240px;
+    }
+
+    .team-img a img{
+        width: 300px;
+        height: 300px;
+    }
+    
+}

@@ -358,6 +358,11 @@
     .image-future img {
         width: 240px;
     }
-
+     
+   .team-img a img{
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+    }
     
 }

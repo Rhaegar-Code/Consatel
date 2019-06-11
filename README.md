@@ -5,3 +5,5 @@ Conocimientos:
 - HTML5
 - Javascript(Design)
 - Bootstrap
+
+![](images/consatel.png)

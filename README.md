@@ -5,6 +5,6 @@ Conocimientos:
 - HTML5
 - Javascript(Design)
 - Bootstrap
-Al aire libr
+Al aire libre
 
 https://raw.githubusercontent.com/Rhaegar-Code/Consatel/master/images/bg1.png

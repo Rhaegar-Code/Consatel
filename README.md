@@ -5,5 +5,3 @@ Conocimientos:
 - HTML5
 - Javascript(Design)
 - Bootstrap
-Al aire libre
-

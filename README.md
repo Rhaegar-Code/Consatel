@@ -7,7 +7,7 @@ Conocimientos:
 - Bootstrap
 Al aire libre
 
-https://rhaegar-code.github.io/Rhaega-Code/Consatel/master/images/bg1.png
-https://rhaegar-code.github.io/Rhaega-Code/Consatel/master/images/bg2.png
-https://rhaegar-code.github.io/Rhaega-Code/Consatel/master/images/bg3.png
-https://rhaegar-code.github.io/Rhaega-Code/Consatel/master/images/bg4.png
+https://rhaegar-code.github.io/Rhaegar-Code/Consatel/master/images/bg1.png
+https://rhaegar-code.github.io/Rhaegar-Code/Consatel/master/images/bg2.png
+https://rhaegar-code.github.io/Rhaegar-Code/Consatel/master/images/bg3.png
+https://rhaegar-code.github.io/Rhaegar-Code/Consatel/master/images/bg4.png

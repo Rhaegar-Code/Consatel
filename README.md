@@ -7,4 +7,4 @@ Conocimientos:
 - Bootstrap
 Al aire libr
 
-https://github.com/Rhaegar-Code/Consatel/blob/master/images/bg1.png
+https://raw.githubusercontent.com/Rhaegar-Code/Consatel/master/images/bg1.png
